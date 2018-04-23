@@ -1,0 +1,33 @@
+= Fiche 3: Pile ou face
+
+Niveau: facile
+
+== Blocs:
+
+* Basique:
+** Montrer l'icône
+** Montrer LEDs
+** Effacer l'écran
+* Entrées:
+** Lorsque le bouton A est pressé
+** Lorsque secoué
+* Maths:
+** Choisir au hasard vrai ou faux
+* Logique:
+** Si ... alors ... sinon
+
+
+== Etape 1: 
+
+
+Lorsqu'on secoue la carte Micro:bit, 
+demander à la carte de choisir au hasard vrai ou faux.
+
+Si elle choisit vrai, afficher un dessin ou un texte pour *pile*.
+Si elle choisit false, afficher un dessin ou un texte pour *face*.
+
+
+== Etape 2:
+
+Lorsqu'on appuie sur le bouton A,
+effacer l'écran.

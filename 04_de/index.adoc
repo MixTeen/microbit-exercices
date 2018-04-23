@@ -1,0 +1,52 @@
+= Fiche 4: Dé
+
+Niveau: Moyen
+
+== Blocs:
+
+* Basique:
+** Montrer nombre
+** Afficher texte
+* Entrées:
+** Lorsque le bouton A est pressé
+** Lorsque secoué
+* Maths:
+** Choisir au hasard de 0 à 4
+** Opérateur +
+* Logique:
+** Si ... alors
+** Opérateur =
+* Variables:
+** Définir item à 0 (signifie affecter 0 à la variable item)
+** Changer item pour 1 (signifie ajouter 1 à la variable item)
+
+== Etape 1: Afficher un nombre au hasard
+
+Lorsque la carte Micro:bit est secouée,
+choisir un nombre au hasard entre 0 et 6,
+montrer ce nombre sur l'afficheur.
+
+== Etape 2: De 1 à 6
+
+Réfléchir comment supprimer la valeur 0.
+
+=== Idée 1
+
+|====
+| Transformer 0 | en 1
+| Transformer 1 | en 2
+| Transformer 2 | en 3
+| Transformer 3 | en 4
+| Transformer 4 | en 5
+| Transformer 5 | en 6
+|====
+
+=== Idée 2
+
+Tant que le nombre choisi au hasard est égal 0, choisir un nouveau nombre au hasard.
+
+== Etape 3
+
+Si la valeur du dé est 5 ou 6,
+alors afficher *Gagné* ou un smiley souriant
+sinon afficher *Perdu* ou un smiley triste.

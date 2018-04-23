@@ -1,0 +1,55 @@
+= Fiche 5: Ne touche pas le fil
+
+Niveau: Facile/Moyen
+
+== Blocs:
+
+* Basique
+** Montrer icone
+** Montrer nombre
+* Entrées
+** Lorsque la broche P0 est touchée
+** Lorsque le bouton A est pressé
+* Musique
+** Jouer le ton Do pendant 1 mesure
+* Variables:
+** Définir item à 0 (signifie affecter 0 à la variable item)
+** Changer item pour 1 (signifie ajouter 1 à la variable item)
+* Composants
+** Du fil de fer, ou mieux du fil de cuivre nu
+** Des pinces croco
+
+== Etape 1: Expérimenter la broche P0
+
+Lorsque on relie, via un fil électrique, la broche *P0* à la broche *GND*,
+C'est comme si on appuyait sur une bouton *P0*
+
+Créer le programme suivant:
+Lorsque la broche P0 est pressée, 
+montre l'icône *non* (une croix)
+
+Demander à un adulte de copier le programme sur la carte Micro:bit,
+et expérimenter.
+
+== Etape 2: Compter le nombre de touchers
+
+Créer une variable *score*.
+
+Lorsque le bouton A est pressé,
+mettre la variable *score* à 0,
+et afficher le score.
+
+Lorsque le broche *P0* est touchée
+incrémenter la variable *score* de 1,
+et afficher le score.
+
+== Etape 3: Bipper quand on touche
+
+On va avoir besoin de la proche P0, pour brancher une petite enceinte.
+
+Utiliser la broche P1 au lieu de P0 pour détecter quand on touche le fil.
+
+Utiliser la broche P0 pour jour une note de musique pendant une courte durée.
+
+Demander à un adulte, un composant pour faire de la musique. 
+Connecter cette petite enceinte comme sur le schéma.

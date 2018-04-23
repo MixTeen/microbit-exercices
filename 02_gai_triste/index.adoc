@@ -1,0 +1,54 @@
+= Fiche 2: Gai ou triste
+
+Niveau: Très facile
+
+== Blocs:
+
+* Basique:
+** Montrer l'icône
+** Montrer LEDs
+* Entrées:
+** Lorsque le bouton A est pressé
+* Boucles:
+** Répéter 4 fois
+
+== Etape 1: Boutons et image
+
+Lorqu'on appuie sur le bouton A, afficher un visage souriant:
+
+	.*.*.
+	.*.*.
+	.....
+	*...*
+	.***.
+
+Lorqu'on appuie sur le bouton B, afficher un visage triste:
+
+	.*.*.
+	.*.*.
+	.....
+	.***.
+	*...*
+
+Demander à un adulte de copier le programme sur la carte Micro:bit
+
+== Etape 2: Animer les visages
+
+Lorqu'on appuie sur le bouton A, 
+afficher un visage souriant et alterner avec un visage neutre, 
+comme pour donner l'impression
+que la tête parle.
+
+	.*.*.
+	.*.*.
+	.....
+	*...*
+	.***.
+
+	.*.*.
+	.*.*.
+	.....
+	*****
+	.....
+
+Demander à un adulte de copier le programme sur la carte Micro:bit

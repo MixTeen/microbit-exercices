@@ -1,0 +1,45 @@
+= Fiche 1: Un coeur qui bat
+
+Niveau: Très facile
+
+== Blocs:
+
+* Basique:
+** Montrer l'icône
+** Au démarrage
+* Boucles:
+** Répéter 4 fois
+
+== Etape 1: Afficher un coeur
+
+Au démarrage de la carte, afficher un coeur
+
+	.*.*.
+	*****
+	*****
+	.***.
+	..*..
+
+
+Demander à un adulte de copier le programme sur la carte Micro:bit
+
+== Etape 2: Faire battre le coeur
+
+On va faire clignoter le coeur.
+Pour cela afficher alternativement, un coeur:
+
+	.*.*.
+	*****
+	*****
+	.***.
+	..*..
+
+et un petit coeur:
+
+	.....
+	.*.*.
+	.***.
+	..*..
+	.....
+
+Demander à un adulte de copier le programme sur la carte Micro:bit

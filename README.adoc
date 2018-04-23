@@ -1,4 +1,4 @@
-= Exercices Micro:bit
+= image:microbit_black.svg[Logo Micro:bit,100] Exercices Micro:bit
 
 Fiches d'exercices en Français à réaliser avec une carte Micro:bit.
 

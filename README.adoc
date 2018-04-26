@@ -13,6 +13,8 @@ Fiches d'exercices en Français à réaliser avec une carte Micro:bit.
 |link:04_de/index.adoc[Dé à 6 faces]  |Facile/Moyen  |   
 |link:05_touche_fil/index.adoc[Ne touche pas le fil]  |Facile  |   
 |link:06_boussole/index.adoc[Boussole]  |Moyen  |   
+|link:06_thermometre/index.adoc[Thermomètre]  |Facile/Moyen  |   
+|link:06_lumiere/index.adoc[Lumière]  |Facile/Moyen  |   
 |link:07_feu_tricolore/index.adoc[Feu tricolore]  |Moyen  |Composants électroniques   
 |link:08_moteur_dc/index.adoc[Moteur à courant continu]  |Moyen  |Composants électroniques     
 |====

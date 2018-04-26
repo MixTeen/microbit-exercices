@@ -1,4 +1,4 @@
-= Fiche 4B: Thermomètre
+= Fiche 8: Thermomètre
 
 == Blocs
 

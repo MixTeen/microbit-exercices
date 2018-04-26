@@ -1,4 +1,4 @@
-= Fiche 8: Piloter un moteur
+= Fiche 10: Piloter un moteur
 
 Niveau: Moyen
 
